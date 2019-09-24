@@ -3,5 +3,6 @@ public class Project4 {
 	public static void main(String[] args) {
 		
 		System.out.println("Selenium is so fun!");
+		System.out.println("It will help in my future job");
     }
  }
